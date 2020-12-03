@@ -1,6 +1,7 @@
 # Artificial-Neural-Network
 
 Configurable parameters in code:
+
 •	No of hidden layers: User can enter the no of hidden layers in the neural network 
 •	No of units in each hidden layer: After entering the no of hidden layers the user wants in the neural network, the user will be prompted to enter no of hidden units in each hidden layer
 •	Activation function: The user has a choose to choose amongst ReLu, Sigmoidal or tanh as activation function for each hidden layer. He will be asked to enter a function for each hidden layer (Press 1 for Sigmoidal, 2 for tanh and 3 for ReLu). The default is set to tanh in case user enters wrong no. 
